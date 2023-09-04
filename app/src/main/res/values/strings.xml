@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Battery Status</string>
+    <string name="powered_by_codezlab">Powered by Codezlab</string>
+    <string name="charging">Fully charged</string>
+</resources>
